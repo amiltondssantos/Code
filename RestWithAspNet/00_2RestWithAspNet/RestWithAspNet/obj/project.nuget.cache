@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vGy3L/Vs/sY3z+lFkxlQPqrfy6v6kyIkBZ+wRFPLOI0NFyY1ocL0CUrNhA9K+d7++T52hm1bEaYaBrab33qnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\RestWithAspNet\\00_2RestWithAspNet\\RestWithAspNet\\RestWithAspNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amilt_a2jc2wy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
