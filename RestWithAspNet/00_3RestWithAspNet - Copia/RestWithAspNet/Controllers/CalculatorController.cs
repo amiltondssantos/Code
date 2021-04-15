@@ -63,6 +63,29 @@ namespace RestWithAspNet.Controllers
             return BadRequest("Invalid Input");
         }
 
+
+        [HttpGet("media/{firstNumber}/{secondNumber}")]
+        public IActionResult media(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = (ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber))/2;
+                return Ok(sum.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
+        [HttpGet("raizquadrada/{firstNumber}")]
+        public IActionResult raizquadrada(string firstNumber)
+        {
+            if (IsNumeric(firstNumber))
+            {
+                var raizquadrada = Math.Sqrt ((double) ConvertToDecimal(firstNumber));
+                return Ok(raizquadrada.ToString());
+            }
+            return BadRequest("Invalid Input");
+        }
+
         private bool IsNumeric(string strNumber)
           {
             double number;
