@@ -1,0 +1,60 @@
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.exe
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.deps.json
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.json
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.dev.json
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csprojAssemblyReference.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfoInputs.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfo.cs
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csproj.CoreCompileInputs.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.Manifest.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.xml
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\RestWithAspNet.styles.css
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.RazorTargetAssemblyInfo.cache
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.genruntimeconfig.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.exe
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.deps.json
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.json
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.dev.json
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csprojAssemblyReference.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfoInputs.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfo.cs
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csproj.CoreCompileInputs.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.Manifest.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.xml
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\RestWithAspNet.styles.css
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.RazorTargetAssemblyInfo.cache
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\00_2RestWithAspNet\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.genruntimeconfig.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.exe
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.deps.json
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.json
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.runtimeconfig.dev.json
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\bin\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csprojAssemblyReference.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfoInputs.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.AssemblyInfo.cs
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.csproj.CoreCompileInputs.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.Manifest.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\staticwebassets\RestWithAspNet.StaticWebAssets.xml
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\scopedcss\bundle\RestWithAspNet.styles.css
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.RazorTargetAssemblyInfo.cache
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.dll
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.pdb
+C:\Code\RestWithAspNet\00_3RestWithAspNet - Copia\RestWithAspNet\obj\Debug\netcoreapp3.1\RestWithAspNet.genruntimeconfig.cache
